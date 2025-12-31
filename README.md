@@ -20,7 +20,7 @@ Full-stack developer and DevOps engineer building scalable applications and auto
 - **[PlaylistMaker](https://github.com/bridan234/PlaylistMaker)** - Playlist management platform
 
 ## 🌐 Socials
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bridan_odc)
+[![Website](https://img.shields.io/badge/Website-danogbuja.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danogbuja.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/bridan_odc)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bridan234&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bridan234&theme=bear&hide_border=false)<br/>
